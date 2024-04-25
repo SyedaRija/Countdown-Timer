@@ -1,2 +1,2 @@
 # Countdown-Timer
- Using HTML, CSS & JAVASCRIPT
+ Practice project Using HTML, CSS & JAVASCRIPT.
